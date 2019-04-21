@@ -1,3 +1,5 @@
+Permet de remplir les paragraphes lors de la création du site.
+
 Te bellare decet terra, Messala marique, 
 ut domus hostiles praeferat exuviat.  
 Me retinent vinctum formossae vincla puellae, 
@@ -8,4 +10,4 @@ Te spectam, suprema mihi cum venerit ora,
 Te teneam moriens deficiente manu. 
     Tibulle, Elegiae _ Delia 
 
-Made by Solene 
+Made by Guiochet Titouan
